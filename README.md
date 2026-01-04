@@ -50,13 +50,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gautamjha321&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamjha321&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamjha321&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
