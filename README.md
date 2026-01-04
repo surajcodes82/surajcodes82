@@ -76,13 +76,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔥 [Sundown Website Clone](https://github.com/Gautamjha321/Sundown-websites-clone)
-- 📘 [Exam Portal (Spring Boot + Angular)](https://github.com/Gautamjha321/Exam-Portal)
-- 💼 [Portfolio Website (React + Tailwind)](https://github.com/Gautamjha321)
-- 🌍 [Weather App (Node.js + OpenWeather)](https://github.com/Gautamjha321)
-- 💡 More projects coming soon...
 
 ---
 
