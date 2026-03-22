@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **MERN Stack & Advanced DSA**
 - 🔭 I’m working on **real-world web apps, clones, and scalable backend systems**
 - 💼 I'm open to **Full Stack Developer Internships, Remote Roles, and Freelance Projects**
-- 💬 Ask me about **JavaScript, React, Express.js, Spring Boot, MongoDB, MySQL, and REST APIs**
+- 💬 Ask me about **JavaScript, React, Express.js, MongoDB, MySQL, and REST APIs**
 - ⚡ Fun fact: I love **debugging**, competitive coding, and discovering tech trends 🚀
 
 ---
